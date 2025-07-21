@@ -1348,3 +1348,4 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.21-19.58.07:443][715]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TD_Character.TD_Character
 [2025.07.21-19.58.07:443][715]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
 [2025.07.21-19.58.07:773][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.07.21-19.59.42:196][478]LogDerivedDataCache: C:/Users/CODEX/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
